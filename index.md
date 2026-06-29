@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![Michael](Michael.png)
+![Michael](images/Michael.png)
 
 [Pinturas](Pinturas.md)
 

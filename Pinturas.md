@@ -3,4 +3,4 @@ layout: page
 ---
 Sennelier, mon amour...
 
-![Noel Painting](NoelPainting.png)
+![Noel Painting](images/NoelPainting.png)
