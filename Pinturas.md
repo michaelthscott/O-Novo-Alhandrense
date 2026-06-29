@@ -1,23 +1,23 @@
 ---
 layout: page
 ---
-Sennelier, mon amour...
-
 ![Noel Painting](images/NoelPainting.png)
+
+_Sennelier, mon amour..._
 
 [Topografia Alhandrense](Topografia-Alhandrense.md)
 
-[Hélder](Hélder.md)
+[Hélder](Helder.md)
 
 [Os Expats](Os-Expats.md)
 
-[A Janela do Estúdio](A-Janela-do-Estúdio.md)
+[A Janela do Estúdio](A-Janela-do-Estudio.md)
 
-[Os Dragões](Os-Dragões.md)
+[Os Dragões](Os-Dragoes.md)
 
 [A Cena de Rua](A-Cena-de-Rua.md)
 
-[À Porta de Casa](À-Porta-de-Casa.md)
+[À Porta de Casa](A-Porta-de-Casa.md)
 
 [Os Destemidos](Os-Destemidos.md)
 

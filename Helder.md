@@ -3,4 +3,4 @@ layout: page
 ---
 Para onde quer que eu olhasse, ele estava a arrumar o lixo.
 
-![Hélder](images/Hélder.png)
+![Hélder](images/Helder.png)

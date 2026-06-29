@@ -1,13 +1,7 @@
 ---
 layout: home
 ---
-
 ![Michael](images/Michael.png)
-
-[Pinturas](Pinturas.md)
-
-[Esboços](Esboços.md)
-
 
 > Quando se ia embora, alguns deles disseram-lhe: "Não é preciso falar de nós aos de fora".
 
@@ -20,4 +14,8 @@ A gigantesca fábrica da Cimpor, o grupo de jogadores de cartas no café dos col
 Sair do comboio é como chegar à Fonte da Flor de Pêssego.
 ​
 Vou pintar vinte e quatro quadros.
+
+[Pinturas](Pinturas.md)
+
+[Esboços](Esbocos.md)
 
