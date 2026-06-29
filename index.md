@@ -15,7 +15,3 @@ Sair do comboio é como chegar à Fonte da Flor de Pêssego.
 ​
 Vou pintar vinte e quatro quadros.
 
-[Pinturas](Pinturas.md)
-
-[Esboços](Esbocos.md)
-
