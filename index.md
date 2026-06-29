@@ -2,6 +2,6 @@
 layout: home
 ---
 
-![Pinturas](Pinturas)
+![Pinturas](Pinturas.md)
 
-![Esboços](Esboços)
+![Esboços](Esboços.md)
