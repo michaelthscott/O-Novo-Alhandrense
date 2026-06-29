@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 Sennelier, mon amour...
 
