@@ -10,6 +10,7 @@ header .wrapper h1 {
 
 footer .wrapper {
   text-align: right;
+  font-size: 0.9rem;
 }
 
 header .wrapper nav {
