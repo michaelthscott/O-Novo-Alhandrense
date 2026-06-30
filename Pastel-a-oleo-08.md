@@ -1,0 +1,4 @@
+---
+layout: page
+---
+![Pastel a óleo](assets/images/Pastel-a-oleo-08.png)
