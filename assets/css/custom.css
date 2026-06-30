@@ -3,7 +3,7 @@
 header .wrapper {
     display: flex;
     justify-content: flex-end;
-    gap: 6rem;
+    gap: 20rem;
 }
 
 header .wrapper h1 {
