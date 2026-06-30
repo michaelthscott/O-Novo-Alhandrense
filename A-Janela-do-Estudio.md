@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-![A Janela do Estúdio](images/A-Janela-do-Estudio.png)
+![A Janela do Estúdio](assets/images/A-Janela-do-Estudio.png)
 
 # A Janela do Estúdio
 

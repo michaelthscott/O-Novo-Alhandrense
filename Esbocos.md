@@ -1,6 +1,6 @@
 ---
 layout: page
 ---
-![Freitag](images/Freitag.png)
+![Freitag](assets/images/Freitag.png)
 
 Esboços feitos in situ.

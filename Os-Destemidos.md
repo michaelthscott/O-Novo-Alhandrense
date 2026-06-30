@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-![Os Destemidos](images/Os-Destemidos.png)
+![Os Destemidos](assets/images/Os-Destemidos.png)
 
 # Os Destemidos
 

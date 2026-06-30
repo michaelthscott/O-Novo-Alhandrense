@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-![Michael](images/Michael.png)
+![Michael](assets/images/Michael.png)
 
 > Quando se ia embora, alguns deles disseram-lhe: "Não é preciso falar de nós aos de fora".
 

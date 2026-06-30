@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-![Os Dragões](images/Os-Dragoes.png)
+![Os Dragões](assets/images/Os-Dragoes.png)
 
 # Os Dragões
 

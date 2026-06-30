@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-![Topografia Alhandrense](images/Topografia-Alhandrense.png)
+![Topografia Alhandrense](assets/images/Topografia-Alhandrense.png)
 
 # Topografia Alhandrense
 
