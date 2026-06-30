@@ -13,3 +13,18 @@ header .wrapper h1 {
 footer .wrapper {
   text-align: right;
 }
+
+header .wrapper nav {
+  display: flex;
+  gap: 1rem;
+}
+
+header .wrapper nav a {
+  padding-left: 1rem;
+  border-left: 1px solid #000;
+}
+
+header .wrapper nav a:first-child {
+  border-left: none;
+}
+
