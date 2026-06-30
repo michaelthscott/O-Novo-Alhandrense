@@ -2,8 +2,12 @@
 ---
 header .wrapper {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: flex-end;
+    gap: 6rem;
+}
+
+header .wrapper h1 {
+  margin-right: auto;
 }
 
 footer .wrapper {
