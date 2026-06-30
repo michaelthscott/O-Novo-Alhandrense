@@ -2,8 +2,8 @@
 ---
 header .wrapper {
     display: flex;
-    justify-content: flex-end;
-    gap: 20rem;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 header .wrapper h1 {
