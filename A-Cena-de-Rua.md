@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-![A Cena de Rua](assets/images/A-Cena-de-Rua.png)
+![A Cena de Rua](assets/images/A-Cena-de-Rua.jpg)
 
 # A Cena de Rua
 
