@@ -27,3 +27,38 @@ header .wrapper nav a:first-child {
   border-left: none;
 }
 
+.menu-toggle {
+  display: none;
+  flex-direction: column;
+  background: none;
+  border: none;
+  cursor: pointer;
+  gap: 0.4rem;
+}
+
+.menu-toggle span {
+  width: 1.5rem;
+  height: 2px;
+  background: #333;
+}
+
+@media (max-width: 600px) {
+  .menu-toggle {
+    display: flex;
+  }
+
+  nav {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background: white;
+    flex-direction: column;
+    padding: 1rem;
+    border: 1px solid #ccc;
+  }
+
+  nav.open {
+    display: flex;
+  }
+}
