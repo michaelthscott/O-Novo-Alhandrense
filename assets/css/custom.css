@@ -47,8 +47,8 @@ header .wrapper nav a:first-child {
   .menu-toggle {
     display: flex;
   }
-
-  nav {
+  
+  #nav-menu {
     display: none;
     position: absolute;
     top: 100%;
@@ -57,9 +57,10 @@ header .wrapper nav a:first-child {
     flex-direction: column;
     padding: 1rem;
     border: 1px solid #ccc;
+    z-index: 1000;
   }
-
-  nav.open {
+  
+  #nav-menu.open {
     display: flex;
   }
 }
