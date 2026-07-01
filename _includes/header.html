@@ -16,7 +16,17 @@
 </header>
 
 <script>
-  document.getElementById('menu-toggle').addEventListener('click', function() {
-    document.getElementById('nav-menu').classList.toggle('open');
+  const menuToggle = document.getElementById('menu-toggle');
+  const navMenu = document.getElementById('nav-menu');
+  const navLinks = navMenu.querySelectorAll('a');
+
+  menuToggle.addEventListener('click', function() {
+    navMenu.classList.toggle('open');
+  });
+
+  navLinks.forEach(link => {
+    link.addEventListener('click', function() {
+      navMenu.classList.remove('open');
+    });
   });
 </script>
