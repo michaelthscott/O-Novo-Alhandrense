@@ -1,4 +1,4 @@
 ---
 layout: page
 ---
-![Moleskine](assets/images/Moleskine-01.png)
+![Moleskine](assets/images/Moleskine-01.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-![À Porta de Casa](images/A-Porta-de-Casa.png)
+![À Porta de Casa](images/A-Porta-de-Casa.jpg)
 
 # À Porta de Casa
 

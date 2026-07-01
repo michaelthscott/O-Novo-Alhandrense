@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-![Hélder](assets/images/Helder.png)
+![Hélder](assets/images/Helder.jpg)
 
 # Hélder
 

@@ -1,4 +1,4 @@
 ---
 layout: page
 ---
-![Pastel a óleo](assets/images/Pastel-a-oleo-03.png)
+![Pastel a óleo](assets/images/Pastel-a-oleo-03.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-![Noel Painting](assets/images/NoelPainting.png)
+![Noel Painting](assets/images/NoelPainting.jpg)
 
 _Sennelier, mon amour..._
 

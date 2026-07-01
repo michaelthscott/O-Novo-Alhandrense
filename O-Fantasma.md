@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-![O Fantasma](assets/images/O-Fantasma.png)
+![O Fantasma](assets/images/O-Fantasma.jpg)
 
 # O Fantasma
 

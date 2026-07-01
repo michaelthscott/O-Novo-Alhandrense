@@ -1,4 +1,4 @@
 ---
 layout: page
 ---
-![Caderno de esboços](assets/images/Caderno-de-esbocos-17.png)
+![Caderno de esboços](assets/images/Caderno-de-esbocos-17.jpg)

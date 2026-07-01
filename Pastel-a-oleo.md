@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-![Pastel a óleo](assets/images/Pastel-a-oleo.png)
+![Pastel a óleo](assets/images/Pastel-a-oleo.jpg)
 
 Manchas de cor ou cor sólida, qual é que vai ganhar? No verão, derretem como gelados.
 

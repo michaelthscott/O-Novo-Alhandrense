@@ -1,4 +1,4 @@
 ---
 layout: page
 ---
-![Caderno Diário](assets/images/Caderno-diario-02.png)
+![Caderno Diário](assets/images/Caderno-diario-02.jpg)

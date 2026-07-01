@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-![Os Expats](assets/images/Os-Expats.png)
+![Os Expats](assets/images/Os-Expats.jpg)
 
 # Os Expats
 

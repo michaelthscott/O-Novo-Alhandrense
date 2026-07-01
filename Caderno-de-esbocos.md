@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-![Caderno de esboços](assets/images/Caderno-de-esbocos.png)
+![Caderno de esboços](assets/images/Caderno-de-esbocos.jpg)
 
 Desenhos efectuados in situ com um lápis de grafite grosso.
 

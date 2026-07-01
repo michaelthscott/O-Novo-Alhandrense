@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-![Freitag](assets/images/Freitag.png)
+![Freitag](assets/images/Freitag.jpg)
 
 Esboços feitos in situ e de memória.
 
