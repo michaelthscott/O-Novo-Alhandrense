@@ -63,4 +63,20 @@ header .wrapper nav a:first-child {
   #nav-menu.open {
     display: flex;
   }
+
+    .prev-next {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.prev-next a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.prev-next a:hover {
+  text-decoration: underline;
+}
 }
