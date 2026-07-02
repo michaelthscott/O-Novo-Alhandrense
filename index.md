@@ -11,7 +11,7 @@ Lisboa é o meu Tahiti. Areias cor-de-rosa e sombras azuis. Já saudâmos Alhand
 ​
 A gigantesca fábrica da Cimpor, o grupo de jogadores de cartas no café dos columbófilos, as ruas quase desertas ao meio-dia, os graffitis dos jovens anarquistas, um desfile de palmeiras, e os camiões sem fim.
 ​
-Sair do comboio é como chegar à Fonte da Flor de Pêssego.
+Sair do comboio é como chegar à _[Fonte da Flor de Pêssego](https://en.wikipedia.org/wiki/The_Peach_Blossom_Spring)_.
 ​
 Vou pintar vinte e quatro quadros.
 
