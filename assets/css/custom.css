@@ -81,11 +81,11 @@ header .wrapper nav a:first-child {
     pointer-events: auto;
   }
 
-  .prev-next a.prev {
+  nav.prev-next a.prev {
     left: 1rem;
   }
 
-  .prev-next a.next {
+  nav.prev-next a.next {
     right: 1rem;
   }
 
