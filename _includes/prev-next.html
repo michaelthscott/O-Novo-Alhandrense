@@ -1,4 +1,4 @@
-{% assign series = site.paintings | where_exp: "p", "p.series == page.series" | sort: "path" %}
+{% assign series = site.pinturas | where_exp: "p", "p.series == page.series" | sort: "path" %}
 {% assign current_index = nil %}
 {% for p in series %}
   {% if p.url == page.url %}
