@@ -65,20 +65,15 @@ header .wrapper nav a:first-child {
   }
 
   .prev-next {
-    position: fixed;
-    top: 50%;
-    left: 0;
-    right: 0;
-    width: 100%;
-    pointer-events: none;
-    z-index: 100;
+      display: flex;
+      justify-content: space-between;
+      margin-top: 2rem;
+      margin-bottom: 2rem;
   }
 
   .prev-next a {
-    position: absolute;
     text-decoration: none;
     color: inherit;
-    pointer-events: auto;
   }
 
   nav.prev-next a.prev {
