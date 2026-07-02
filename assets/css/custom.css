@@ -82,7 +82,7 @@ header .wrapper nav a:first-child {
   }
 
   nav.prev-next a.next {
-    right: 1rem;
+      margin-left: auto;
   }
 
   .prev-next a:hover {
