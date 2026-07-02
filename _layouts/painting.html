@@ -2,8 +2,6 @@
 layout: page
 ---
 <article class="painting">
-  <h1>{{ page.title }}</h1>
-
   {% if page.image %}
     <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="painting-image">
   {% endif %}
