@@ -5,7 +5,9 @@ layout: page
 
 _Sennelier, mon amour..._
 
-{%- for pintura in site.pinturas -%}
- - [{{ pintura.title }}]({{ pintura.url | relative_url }})
+<ul>
+{% for pintura in site.pinturas %}
+  <li><a href="{{ pintura.url | relative_url }}">{{ pintura.title }}</a></li>
 {% endfor %}
+</ul>
 
