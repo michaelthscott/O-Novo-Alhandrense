@@ -6,6 +6,6 @@ layout: page
 _Sennelier, mon amour..._
 
 {% for pintura in site.pinturas %}
-  [{{ pintura.title }}]({{ pintura.url | relative_url }})
+ - [{{ pintura.title }}]({{ pintura.url | relative_url }})
 {% endfor %}
 
