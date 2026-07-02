@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: painting
+title: Os Dragões
+series: pinturas
 ---
 ![Os Dragões](assets/images/Os-Dragoes.jpg)
 

@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: painting
+title: Hélder
+series: pinturas
 ---
 ![Hélder](assets/images/Helder.jpg)
 

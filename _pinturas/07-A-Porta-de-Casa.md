@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: painting
+title: À Porta de Casa
+series: pinturas
 ---
 ![À Porta de Casa](images/A-Porta-de-Casa.jpg)
 
