@@ -3,7 +3,7 @@ layout: painting
 title: Os Dragões
 series: pinturas
 ---
-![Os Dragões](assets/images/Os-Dragoes.jpg)
+![Os Dragões](/assets/images/Os-Dragoes.jpg)
 
 # Os Dragões
 

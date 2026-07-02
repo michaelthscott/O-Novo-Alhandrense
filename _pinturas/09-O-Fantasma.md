@@ -3,7 +3,7 @@ layout: painting
 title: O Fantasma
 series: pinturas
 ---
-![O Fantasma](assets/images/O-Fantasma.jpg)
+![O Fantasma](/assets/images/O-Fantasma.jpg)
 
 # O Fantasma
 

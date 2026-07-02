@@ -3,7 +3,7 @@ layout: painting
 title: A Cena de Rua
 series: pinturas
 ---
-![A Cena de Rua](assets/images/A-Cena-de-Rua.jpg)
+![A Cena de Rua](/assets/images/A-Cena-de-Rua.jpg)
 
 # A Cena de Rua
 

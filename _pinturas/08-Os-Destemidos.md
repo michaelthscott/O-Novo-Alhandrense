@@ -3,7 +3,7 @@ layout: painting
 title: Os Destemidos
 series: pinturas
 ---
-![Os Destemidos](assets/images/Os-Destemidos.jpg)
+![Os Destemidos](/assets/images/Os-Destemidos.jpg)
 
 # Os Destemidos
 

@@ -3,7 +3,7 @@ layout: painting
 title: Os Expats
 series: pinturas
 ---
-![Os Expats](assets/images/Os-Expats.jpg)
+![Os Expats](/assets/images/Os-Expats.jpg)
 
 # Os Expats
 

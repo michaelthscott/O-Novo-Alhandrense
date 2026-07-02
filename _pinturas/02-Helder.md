@@ -3,7 +3,7 @@ layout: painting
 title: Hélder
 series: pinturas
 ---
-![Hélder](assets/images/Helder.jpg)
+![Hélder](/assets/images/Helder.jpg)
 
 # Hélder
 
