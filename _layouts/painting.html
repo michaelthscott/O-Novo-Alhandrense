@@ -1,1 +1,12 @@
+---
+layout: page
+---
+<article class="painting">
+  {% if page.image %}
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="painting-image">
+  {% endif %}
 
+  {{ content }}
+
+  {% include prev-next.html %}
+</article>
