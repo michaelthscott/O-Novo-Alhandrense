@@ -64,19 +64,32 @@ header .wrapper nav a:first-child {
     display: flex;
   }
 
-    .prev-next {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-}
+  .prev-next {
+    position: fixed;
+    top: 50%;
+    left: 0;
+    right: 0;
+    width: 100%;
+    pointer-events: none;
+    z-index: 100;
+  }
 
-.prev-next a {
-  text-decoration: none;
-  color: inherit;
-}
+  .prev-next a {
+    position: absolute;
+    text-decoration: none;
+    color: inherit;
+    pointer-events: auto;
+  }
 
-.prev-next a:hover {
-  text-decoration: underline;
-}
+  .prev-next a.prev {
+    left: 1rem;
+  }
+
+  .prev-next a.next {
+    right: 1rem;
+  }
+
+  .prev-next a:hover {
+    text-decoration: underline;
+  }
 }
