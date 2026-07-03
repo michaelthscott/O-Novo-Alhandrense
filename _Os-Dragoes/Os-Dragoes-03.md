@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "03"
+title: Planar
 series: Os-Dragoes
 image: /assets/images/Os-Dragoes-03.jpg
 ---
