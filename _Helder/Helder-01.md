@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: "01"
+title: Recolher
 series: Helder
 image: /assets/images/Helder-01.jpg
 ---
