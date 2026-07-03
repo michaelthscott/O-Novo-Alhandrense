@@ -4,6 +4,6 @@ author: Michael T. H. Scott
 theme: minima
 baseurl: /O-Novo-Alhandrense
 collections:
-  pinturas:
+  Pinturas:
     output: true
 
