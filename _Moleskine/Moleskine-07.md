@@ -1,6 +1,6 @@
 ---
 layout: painting
-title: 07
+title: "07"
 series: Moleskine
 image: /assets/images/Moleskine-07.jpg
 ---
