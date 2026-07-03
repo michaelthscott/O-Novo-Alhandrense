@@ -8,5 +8,5 @@ Para onde quer que eu olhasse, ele estava a arrumar o lixo.
 
 ## Estudos
 
-{% include series-list.html collection="Helder-studies" %}
+{% include series-list.html collection="Helder" %}
 
