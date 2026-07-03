@@ -4,6 +4,14 @@ author: Michael T. H. Scott
 theme: minima
 baseurl: /O-Novo-Alhandrense
 collections:
+  Caderno-de-esbocos:
+    output: true
+  Caderno-diario:
+    output: true
+  Moleskine:
+    output: true
+  Pastel-a-oleo:
+    output: true
   Pinturas:
     output: true
 

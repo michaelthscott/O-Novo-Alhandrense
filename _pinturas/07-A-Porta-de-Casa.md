@@ -1,7 +1,7 @@
 ---
 layout: painting
 title: À Porta de Casa
-series: pinturas
+series: Pinturas
 image: /assets/images/A-Porta-de-Casa.jpg
 ---
 Às vezes, ela está à porta de casa e trocamos um «boa tarde».

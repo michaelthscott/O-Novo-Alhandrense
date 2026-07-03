@@ -5,9 +5,5 @@ layout: page
 
 _Sennelier, mon amour..._
 
-<ul>
-{% for pintura in site.pinturas %}
-  <li><a href="{{ pintura.url | relative_url }}">{{ pintura.title }}</a></li>
-{% endfor %}
-</ul>
+{% include series-list.html collection="Pinturas" %}
 
