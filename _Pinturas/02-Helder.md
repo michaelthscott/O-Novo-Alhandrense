@@ -8,7 +8,7 @@ Para onde quer que eu olhasse, ele estava a arrumar o lixo.
 
 ## Estudos
 
-![Hélder](/assets/images/Helder-01.jpg)
-![Hélder](/assets/images/Helder-02.jpg)
-![Hélder](/assets/images/Helder-03.jpg)
+![Hélder](/O-Novo-Alhandrense/assets/images/Helder-01.jpg)
+![Hélder](/O-Novo-Alhandrense/assets/images/Helder-02.jpg)
+![Hélder](/O-Novo-Alhandrense/assets/images/Helder-03.jpg)
 
