@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: default
 ---
 <article class="study">
+  <header class="post-header">
+    <h2 class="post-title">{{ page.title | escape }}</h2>
+  </header>
+
   {% if page.image %}
     <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="study-image">
   {% endif %}
