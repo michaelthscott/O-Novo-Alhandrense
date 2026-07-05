@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Pinturas
 ---
 ![Noel Painting](assets/images/NoelPainting.jpg)
 
