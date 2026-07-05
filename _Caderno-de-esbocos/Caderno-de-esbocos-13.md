@@ -1,5 +1,5 @@
 ---
-layout: painting
+layout: study
 title: 13
 series: Caderno-de-esbocos
 image: /assets/images/Caderno-de-esbocos-13.jpg
