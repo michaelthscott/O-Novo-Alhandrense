@@ -1,0 +1,11 @@
+<article class="study">
+  {% if page.image %}
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="study-image">
+  {% endif %}
+
+  <div class="study-content">
+    {{ content }}
+  </div>
+
+  {% include prev-next.html collection=page.collection %}
+</article>
