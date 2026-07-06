@@ -81,3 +81,9 @@ header .wrapper nav a:first-child {
     line-height: 1.2;
     color: #666;
 }
+.sketch-title {
+    font-size: 24px;
+    letter-spacing: -0.5px;
+    line-height: 1.2;
+    color: #666;
+}
