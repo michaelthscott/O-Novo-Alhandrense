@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Pastel a óleo
 ---
 ![Pastel a óleo](assets/images/Pastel-a-oleo.jpg)
 
