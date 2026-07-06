@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Caderno de esboços
 ---
 ![Caderno de esboços](assets/images/Caderno-de-esbocos.jpg)
 

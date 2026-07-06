@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Caderno Diário
 ---
 ![Caderno Diário](assets/images/Caderno-diario.jpg)
 
