@@ -1,5 +1,5 @@
 ---
-layout: study
+layout: sketch
 title: "02"
 series: Moleskine
 image: /assets/images/Moleskine-02.jpg

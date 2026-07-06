@@ -1,5 +1,5 @@
 ---
-layout: study
+layout: sketch
 title: 25
 series: Caderno-de-esbocos
 image: /assets/images/Caderno-de-esbocos-25.jpg
