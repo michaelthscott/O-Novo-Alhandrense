@@ -7,7 +7,7 @@ layout: home
 
 O meu pai gostava de pintar. Tinha livros de arte em casa. O Gauguin era o meu favorito. _Bonjour, Monsieur Gauguin._ Pinturas realizadas em lugares novos. Le Pouldu até Hiva Oa. 
 
-Lisboa é o meu Tahiti. Areias cor-de-rosa e sombras azuis. Já conhecemos Alhandra, _a toireira_. Uma brecha até ao século XIX. 
+Lisboa é o meu Tahiti. Areias cor-de-rosa e sombras azuis. Já conhecemos Alhandra -- _A Toireira_. Uma brecha até ao século XIX. 
 
 A gigantesca fábrica da Cimpor, o grupo de jogadores de cartas no café dos columbófilos, as ruas quase desertas ao meio-dia, os graffitis dos jovens anarquistas, um desfile de palmeiras, e os camiões sem fim.
 
