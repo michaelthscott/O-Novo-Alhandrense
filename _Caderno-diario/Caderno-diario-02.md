@@ -1,6 +1,6 @@
 ---
 layout: sketch
-title: "02"
+title: Comboio vermelho
 series: Caderno-diario
 image: /assets/images/Caderno-diario-02.jpg
 ---

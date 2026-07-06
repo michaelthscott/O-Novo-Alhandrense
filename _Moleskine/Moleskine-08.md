@@ -1,6 +1,6 @@
 ---
 layout: sketch
-title: "08"
+title: Passageiro de comboio
 series: Moleskine
 image: /assets/images/Moleskine-08.jpg
 ---

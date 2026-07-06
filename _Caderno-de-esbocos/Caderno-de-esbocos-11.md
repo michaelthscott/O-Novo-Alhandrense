@@ -1,6 +1,6 @@
 ---
 layout: sketch
-title: 11
+title: Vista da passarela
 series: Caderno-de-esbocos
 image: /assets/images/Caderno-de-esbocos-11.jpg
 ---

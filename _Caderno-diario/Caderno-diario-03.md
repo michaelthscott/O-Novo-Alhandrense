@@ -1,6 +1,6 @@
 ---
 layout: sketch
-title: "03"
+title: O Peregrino
 series: Caderno-diario
 image: /assets/images/Caderno-diario-03.jpg
 ---

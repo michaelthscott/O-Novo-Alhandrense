@@ -1,6 +1,6 @@
 ---
 layout: sketch
-title: "01"
+title: Casal de namorados
 series: Moleskine
 image: /assets/images/Moleskine-01.jpg
 ---

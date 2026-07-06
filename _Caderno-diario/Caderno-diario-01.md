@@ -1,6 +1,6 @@
 ---
 layout: sketch
-title: "01"
+title: Museu e fábrica
 series: Caderno-diario
 image: /assets/images/Caderno-diario-01.jpg
 ---

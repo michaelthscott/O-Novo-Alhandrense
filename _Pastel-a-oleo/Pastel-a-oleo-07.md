@@ -1,6 +1,6 @@
 ---
 layout: sketch
-title: "07"
+title: Estrada atrás de Subserra
 series: Pastel-a-oleo
 image: /assets/images/Pastel-a-oleo-07.jpg
 ---

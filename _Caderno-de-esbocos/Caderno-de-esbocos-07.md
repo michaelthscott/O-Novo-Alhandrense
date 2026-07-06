@@ -1,6 +1,6 @@
 ---
 layout: sketch
-title: "07"
+title: Arbusto florido
 series: Caderno-de-esbocos
 image: /assets/images/Caderno-de-esbocos-07.jpg
 ---

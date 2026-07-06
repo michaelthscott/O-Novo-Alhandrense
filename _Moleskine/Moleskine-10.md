@@ -1,6 +1,6 @@
 ---
 layout: sketch
-title: "10"
+title: Companheiros
 series: Moleskine
 image: /assets/images/Moleskine-10.jpg
 ---

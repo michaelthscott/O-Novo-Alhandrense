@@ -1,6 +1,6 @@
 ---
 layout: sketch
-title: 25
+title: Interior abandonado
 series: Caderno-de-esbocos
 image: /assets/images/Caderno-de-esbocos-25.jpg
 ---

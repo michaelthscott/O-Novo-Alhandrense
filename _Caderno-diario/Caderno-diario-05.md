@@ -1,6 +1,6 @@
 ---
 layout: sketch
-title: "05"
+title: Pré-pagamento
 series: Caderno-diario
 image: /assets/images/Caderno-diario-05.jpg
 ---

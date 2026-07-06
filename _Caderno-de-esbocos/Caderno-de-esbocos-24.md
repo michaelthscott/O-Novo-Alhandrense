@@ -1,6 +1,6 @@
 ---
 layout: sketch
-title: 24
+title: Uma cerveja
 series: Caderno-de-esbocos
 image: /assets/images/Caderno-de-esbocos-24.jpg
 ---

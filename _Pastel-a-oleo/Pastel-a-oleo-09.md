@@ -1,6 +1,6 @@
 ---
 layout: sketch
-title: "09"
+title: Cabaninha de jardim
 series: Pastel-a-oleo
 image: /assets/images/Pastel-a-oleo-09.jpg
 ---
