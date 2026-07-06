@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Moleskine
 ---
 ![Moleskine](assets/images/Moleskine.jpg)
 
