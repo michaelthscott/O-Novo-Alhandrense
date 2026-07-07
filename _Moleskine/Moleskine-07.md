@@ -1,6 +1,6 @@
 ---
 layout: sketch
-title: Boné com pala
+title: Boné
 series: Moleskine
 image: /assets/images/Moleskine-07.jpg
 ---
