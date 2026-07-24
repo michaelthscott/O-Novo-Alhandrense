@@ -2,8 +2,8 @@ title: O Novo Alhandrense
 description: Um estúdio em Alhandra.
 author: Michael T. H. Scott
 theme: minima
-baseurl: /O-Novo-Alhandrense
-collections:
+url: "https://onovoalhandrense.art"
+baseurl: ""collections:
   Caderno-de-esbocos:
     output: true
   Caderno-diario:
