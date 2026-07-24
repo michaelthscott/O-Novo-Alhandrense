@@ -3,7 +3,7 @@ description: Um estúdio em Alhandra.
 author: Michael T. H. Scott
 theme: minima
 url: "https://onovoalhandrense.art"
-baseurl: ""collections:
+collections:
   Caderno-de-esbocos:
     output: true
   Caderno-diario:
